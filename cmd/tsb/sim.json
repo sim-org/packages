@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "github.com/sim-org/packages/pkg/getargs": "latest"
+  }
+}
